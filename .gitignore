@@ -2,3 +2,7 @@
 
 **/venv/
 **/.venv/
+
+# For ignoring all the recordings, for now
+
+files/
